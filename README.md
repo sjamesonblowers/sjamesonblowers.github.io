@@ -5,7 +5,7 @@ I am currently pursuing an MA in General Linguistics at the University at Buffal
 When I'm not researching, I spend my free time trying to keep all my plants alive (doing pretty well so far!), prepping for my ongoing Dungeons and Dragons campaign, or working on any of several ongoing arts & crafts projects I have going at any given time. 
 
 
-### Markdown
+### Research
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -29,10 +29,10 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### CV
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjamesonblowers/sjamesonblowers.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Contact
+You can email me at: sjameson1107[at]gmail[dot]com
+Follow me on Twitter @flockey15
