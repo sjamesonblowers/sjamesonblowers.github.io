@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/sjamesonblowers/sjamesonblowers.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am currently pursuing an MA in General Linguistics at the University at Buffalo, with hopes to pursue a PhD in the near future. I am interested in Hispanic Linguistics, Language Preservation and Revitalization, Morphology, Semantics, and Variation. My capstone research is focused on semantic variation in Argentine Spanish, with hopes of exploring a novel branch of sociolinguistics. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+When I'm not researching, I spend my free time trying to keep all my plants alive (doing pretty well so far!), prepping for my ongoing Dungeons and Dragons campaign, or working on any of several ongoing arts & crafts projects I have going at any given time. 
+
 
 ### Markdown
 
