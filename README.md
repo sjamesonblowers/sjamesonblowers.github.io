@@ -7,7 +7,7 @@ When I'm not researching, I spend my free time trying to keep all my plants aliv
 
 ### Research
 
-My research interests have primarily focused in Hispanic linguistics and language change, particularly in the areas of phonetics, semantics, and lexical change. Visit my [research page](main/research.html) to learn more. 
+My research interests have primarily focused in Hispanic linguistics and language change, particularly in the areas of phonetics, semantics, and lexical change. Visit my [research page](research.html) to learn more. 
 
 ```markdown
 Syntax highlighted code block
