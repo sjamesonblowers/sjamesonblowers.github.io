@@ -5,7 +5,9 @@ I am currently pursuing an MA in General Linguistics at the University at Buffal
 When I'm not researching, I spend my free time trying to keep all my plants alive (doing pretty well so far!), prepping for my ongoing Dungeons and Dragons campaign, or working on any of several ongoing arts & crafts projects I have going at any given time. 
 
 
-## <div_align="right"> [_Research_](research.md) [_CV_](cv.md) [_Contact_](#contact)
+<div_align="right"> ## [_Research_](research.md) 
+<div_align="center"> ## [_CV_](cv.md) 
+<div_align="left"> ## [_Contact_](#contact)
 
 
 ### Research
