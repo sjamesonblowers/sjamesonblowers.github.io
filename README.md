@@ -7,7 +7,7 @@ When I'm not researching, I spend my free time trying to keep all my plants aliv
 
 ### Research
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My research interests have primarily focused in Hispanic linguistics and language change, particularly in the areas of phonetics, semantics, and lexical change. Visit my [research page](main/research.html) to learn more. 
 
 ```markdown
 Syntax highlighted code block
