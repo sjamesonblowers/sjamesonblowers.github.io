@@ -24,7 +24,7 @@ My research interests have primarily focused in Hispanic linguistics and languag
 
 ### CV
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjamesonblowers/sjamesonblowers.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+To see my full CV, click [here](cv.pdf)!
 
 ### Contact
 
