@@ -15,7 +15,7 @@ When I'm not researching, I spend my free time trying to keep all my plants aliv
 
 ||||
 |:--|--|--:|
-|[_Research_](research.md)|[_CV_](cv.pdf)|[_Contact_](contact.md)|
+|[_Research_](research.md)|[_CV_](Sydney Jameson-Blowers CV 2021.pdf)|[_Contact_](contact.md)|
 
 ### Research
 
@@ -24,7 +24,7 @@ My research interests have primarily focused in Hispanic linguistics and languag
 
 ### CV
 
-To see my full CV, click [here](cv.pdf)!
+To see my full CV, click [here](Sydney Jameson-Blowers CV 2021.pdf)!
 
 ### Contact
 
