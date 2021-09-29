@@ -23,6 +23,7 @@ When I'm not researching, I spend my free time trying to keep all my plants aliv
 
 ### Research
 
+My research goals are twofold; to further explore crosslinguistic and intralinguistic variation in the realms of semantics and morphology, and to examine and develop new tools for gathering semantic data in order to maintain ethical, informed, and broadly representative data collection in the field. I believe that the study of endangered languages will be particularly necessary to accomplish these goals, and will therefore play a leading role in the continuation of my research. My interests in the realm of semantics extend not only to the employ of psycholinguistic methods in investigating semantic processing but also to the use of empirical semantics in sociolinguistic analysis, a hitherto understudied domain. 
 My research interests have primarily focused in Hispanic linguistics and language change, particularly in the areas of phonetics, semantics, and lexical change. Visit my [research page](research.md) to learn more. 
 
 
