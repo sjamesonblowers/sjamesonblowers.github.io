@@ -1,5 +1,6 @@
 ## About Me
 
+
 ![photo of Sydney](sydheadshot.jpg)
 
 I am currently pursuing an MA in General Linguistics at the University at Buffalo, with hopes to pursue a PhD in the near future. I am interested in Hispanic Linguistics, Language Preservation and Revitalization, Morphology, Semantics, and Variation. My capstone research is focused on semantic variation in Argentine Spanish, with hopes of exploring a novel branch of sociolinguistics. 
