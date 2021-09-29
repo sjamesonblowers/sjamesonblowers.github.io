@@ -15,9 +15,7 @@ When I'm not researching, I spend my free time trying to keep all my plants aliv
 
 ||||
 |:--|--|--:|
-|[_Research_](research.md)|||
-||[_CV_](cv.md)||
-|||[Contact](#contact)|
+|[_Research_](research.md)|[_CV_](cv.pdf)|[_Contact_](contact.md)|
 
 ### Research
 
